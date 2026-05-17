@@ -1,0 +1,6 @@
+{
+  "name": "Punjab Wheat Procurement Management System",
+  "description": "A comprehensive 4-tier procurement management system for the Punjab Food Department, handling Directorate, Division, District, and Center levels with integrated SQL reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
